@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "85558610869",
+    "project_id": "outq-dev",
+    "storage_bucket": "outq-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85558610869:android:01129542c49be2b3b7e7fc",
+        "android_client_info": {
+          "package_name": "in.outq.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85558610869-b9lku36nefuddbnc5qpm8cak9u1r8fap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAinPzQA94S6ICtee8b111gDbmFJ0-sEbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85558610869-b9lku36nefuddbnc5qpm8cak9u1r8fap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
