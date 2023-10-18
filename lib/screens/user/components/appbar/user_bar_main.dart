@@ -72,7 +72,7 @@ class _UserAppBarState extends State<UserAppBar> {
       //       size: 30,
       //     ),
       //     onPressed: () {}),
-      title: const Row(
+      title:  Row(
         children: [
           Image(
             image: AssetImage("assets/app_icon/logohead.png"),
