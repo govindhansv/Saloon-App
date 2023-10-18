@@ -38,10 +38,10 @@ Future updateuser(BuildContext context) async {
         'Context-Type': 'application/json; charset=UTF-8',
       },
       body: <String, String>{
-        'location': userlocation ?? "",
-        'pincode': userpincode ?? "",
-        'longitude': userlongitude ?? "",
-        'latitude': userlatitude ?? "",
+        'location': userlocation ?? "calicut",
+        'pincode': userpincode ?? "673601",
+        'longitude': userlongitude ?? "4578",
+        'latitude': userlatitude ?? "7897",
         // 'deviceid': deviceid
       });
 
